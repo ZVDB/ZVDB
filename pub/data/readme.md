@@ -2,3 +2,5 @@
 Rosalind Elsie Franklin Institute for Disease Eradication.
 
 <b>ZVDB<sup>®</sup></b>: A Zika Virus proteins and their associated functional genes database.
+
+<b>Zika virus</b> ```/ˈziːkə, ˈzɪkə/``` (ZIKV) is a member of the virus family Flaviviridae and the genus Flavivirus, and is thus related to the dengue, yellow fever, Japanese encephalitis, and West Nile viruses. Zika virus is enveloped and icosahedral and has a non-segmented, single-stranded, positive-sense RNA genome. A positive-sense RNA genome can be directly translated into the viral proteins.
