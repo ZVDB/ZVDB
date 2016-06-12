@@ -1,0 +1,334 @@
+----------------------------------------------------------------------------
+R F I D E®: Rosalind Elsie Franklin Institute for Disease Eradication.
+----------------------------------------------------------------------------
+ZVDB®: A Zika Virus proteins and their associated functional genes database.
+----------------------------------------------------------------------------
+ZIKV Genome Neighbors - 82
+----------------------------------------------------------------------------
+1. Zika virus strain MR 766 polyprotein gene, complete cds
+10,254 bp linear RNA 
+DQ859059.1 GI:146411780
+
+2. Zika virus polyprotein gene, complete cds
+10,272 bp linear RNA 
+EU545988.1 GI:189092757
+
+3. Zika virus isolate MR_766 polyprotein gene, partial cds
+10,269 bp linear RNA 
+HQ234498.1 GI:345132140
+
+4. Zika virus isolate P6-740 polyprotein gene, partial cds
+10,269 bp linear RNA 
+HQ234499.1 GI:345132142
+
+5. Zika virus isolate IbH_30656 polyprotein gene, partial cds
+10,251 bp linear RNA 
+HQ234500.1 GI:345132144
+
+6. Zika virus isolate ArD_41519 polyprotein gene, partial cds
+10,269 bp linear RNA 
+HQ234501.1 GI:345132146
+
+7. Zika virus isolate FSS13025 polyprotein gene, partial cds
+10,269 bp linear RNA 
+JN860885.1 GI:380036385
+
+8. Zika virus isolate ARB13565 polyprotein gene, complete cds
+10,788 bp linear RNA 
+KF268948.1 GI:572167484
+
+9. Zika virus isolate ARB15076 polyprotein gene, complete cds
+10,776 bp linear RNA 
+KF268949.1 GI:572167486
+
+10. Zika virus isolate ARB7701 polyprotein gene, complete cds
+10,755 bp linear RNA 
+KF268950.1 GI:572167488
+
+11. Zika virus strain ArB1362 polyprotein gene, complete cds
+10,272 bp linear RNA 
+KF383115.1 GI:592746957
+
+12. Zika virus strain ArD7117 polyprotein gene, complete cds
+10,272 bp linear RNA 
+KF383116.1 GI:592746959
+
+13. Zika virus strain ArD128000 polyprotein gene, complete cds
+10,272 bp linear RNA 
+KF383117.1 GI:592746961
+
+14. Zika virus strain ArD157995 polyprotein gene, complete cds
+10,272 bp linear RNA 
+KF383118.1 GI:592746963
+
+15. Zika virus strain ArD158084 polyprotein gene, complete cds
+10,272 bp linear RNA 
+KF383119.1 GI:592746965
+
+16. Zika virus strain ArD142623 nonfunctional polyprotein gene, partial sequence
+9,981 bp linear RNA 
+KF383120.1 GI:592746967
+
+17. Zika virus strain PLCal_ZV from Canada polyprotein gene, partial cds
+10,141 bp linear RNA 
+KF993678.1 GI:591399175
+
+18. Zika virus strain H/PF/2013 polyprotein gene, complete cds
+10,617 bp linear RNA 
+KJ776791.1 GI:631250742
+
+19. Zika virus isolate Z1106033 polyprotein gene, complete cds
+10,374 bp linear RNA 
+KU312312.1 GI:973447404
+
+20. Zika virus strain ZikaSPH2015, complete genome
+10,676 bp linear RNA 
+KU321639.1 GI:969945756
+
+21. Zika virus strain BeH818995 polyprotein gene, complete cds
+10,662 bp linear RNA 
+KU365777.1 GI:975885964
+
+22. Zika virus strain BeH819015 polyprotein gene, complete cds
+10,727 bp linear RNA 
+KU365778.1 GI:975885966
+
+23. Zika virus strain BeH819966 polyprotein gene, complete cds
+10,662 bp linear RNA 
+KU365779.1 GI:975885969
+
+24. Zika virus strain BeH815744 polyprotein gene, complete cds
+10,662 bp linear RNA 
+KU365780.1 GI:975885971
+
+25. Zika virus isolate Brazil-ZKV2015, complete genome
+10,793 bp linear RNA 
+KU497555.1 GI:985578255
+
+26. Zika virus strain PRVABC59, complete genome
+10,675 bp linear RNA 
+KU501215.1 GI:984874581
+
+27. Zika virus strain 103344 polyprotein gene, complete cds
+10,272 bp linear RNA 
+KU501216.1 GI:984874583
+
+28. Zika virus strain 8375 polyprotein gene, complete cds
+10,272 bp linear RNA 
+KU501217.1 GI:984874585
+
+29. Zika virus strain Haiti/1225/2014, complete genome
+10,807 bp linear RNA 
+KU509998.3 GI:1016563098
+
+30. Zika virus strain Natal RGN, complete genome
+10,808 bp linear RNA 
+KU527068.1 GI:982894594
+
+31. Zika virus strain MRS_OPY_Martinique_PaRi_2015 polyprotein gene, complete cds
+10,617 bp linear RNA 
+KU647676.1 GI:984915975
+
+32. Zika virus isolate Zika virus/H.sapiens-tc/THA/2014/SV0127- 14, complete genome
+10,807 bp linear RNA 
+KU681081.3 GI:1000381324
+
+33. Zika virus isolate Zika virus/H.sapiens-tc/PHL/2012/CPC-0740, complete genome
+10,807 bp linear RNA 
+KU681082.3 GI:1000381325
+
+34. Zika virus isolate SSABR1, complete genome
+10,648 bp linear RNA 
+KU707826.1 GI:992324757
+
+35. Zika virus isolate BeH823339 polyprotein gene, complete cds
+10,645 bp linear RNA 
+KU729217.2 GI:1002394024
+
+36. Zika virus isolate BeH828305 polyprotein gene, complete cds
+10,729 bp linear RNA 
+KU729218.1 GI:998491032
+
+37. Zika virus isolate VE_Ganxian, complete genome
+10,676 bp linear RNA 
+KU744693.1 GI:998961613
+
+38. Zika virus isolate 17271 polyprotein gene, complete cds
+10,364 bp linear RNA 
+KU758877.1 GI:1001229298
+
+39. Zika virus isolate GDZ16001 polyprotein gene, complete cds
+10,401 bp linear RNA 
+KU761564.1 GI:1001231706
+
+40. Zika virus isolate FLR polyprotein gene, complete cds
+10,789 bp linear RNA 
+KU820897.3 GI:1035943484
+
+41. Zika virus isolate GZ01 polyprotein gene, complete cds
+10,272 bp linear RNA 
+KU820898.1 GI:1001904408
+
+42. Zika virus isolate ZJ03, complete genome
+10,805 bp linear RNA 
+KU820899.2 GI:1003109675
+
+43. Zika virus isolate Dominican Republic/2016/PD1, complete genome
+10,636 bp linear RNA 
+KU853012.1 GI:1002634689
+
+44. Zika virus isolate Dominican Republic/2016/PD2, complete genome
+10,636 bp linear RNA 
+KU853013.1 GI:1002634691
+
+45. Zika virus isolate Zika virus/SZ01/2016 polyprotein gene, complete cds
+10,272 bp linear RNA 
+KU866423.1 GI:1003097085
+
+46. Zika virus isolate FB-GWUH-2016, complete genome
+10,798 bp linear RNA 
+KU870645.1 GI:1006593136
+
+47. Zika virus isolate MEX/InDRE/Lm/2016, complete genome
+10,617 bp linear RNA 
+KU922923.1 GI:1005883179
+
+48. Zika virus isolate MEX/InDRE/Sm/2016, complete genome
+10,617 bp linear RNA 
+KU922960.1 GI:1005883181
+
+49. Zika virus isolate Rio-U1, complete genome
+10,795 bp linear RNA 
+KU926309.1 GI:1006593051
+
+50. Zika virus isolate Rio-S1, complete genome
+10,805 bp linear RNA 
+KU926310.1 GI:1006593054
+
+51. Zika virus isolate ZIKVNL00013 polyprotein gene, complete cds
+10,542 bp linear RNA 
+KU937936.1 GI:1013874252
+
+52. Zika virus isolate Bahia07, partial genome
+10,676 bp linear RNA 
+KU940228.1 GI:1007624023
+
+53. Zika virus isolate Z16006 polyprotein gene, complete cds
+10,574 bp linear RNA 
+KU955589.1 GI:1008913387
+
+54. Zika virus isolate Z16019 polyprotein gene, complete cds
+10,569 bp linear RNA 
+KU955590.1 GI:1008913389
+
+55. Zika virus isolate Zika virus/A.africanus-tc/SEN/1984/41525-DAK, complete genome
+10,806 bp linear RNA 
+KU955591.1 GI:1008913391
+
+56. Zika virus isolate Zika virus/A.taylori-tc/SEN/1984/41662-DAK, complete genome
+10,806 bp linear RNA 
+KU955592.1 GI:1008913393
+
+57. Zika virus isolate Zika virus/H.sapiens-tc/KHM/2010/FSS13025, complete genome
+10,807 bp linear RNA 
+KU955593.1 GI:1008913395
+
+58. Zika virus isolate Zika virus/M.mulatta-tc/UGA/1947/MR-766, complete genome
+10,795 bp linear RNA 
+KU955594.1 GI:1008913397
+
+59. Zika virus isolate Zika virus/A.taylori-tc/SEN/1984/41671-DAK, complete genome
+10,806 bp linear RNA 
+KU955595.1 GI:1008913399
+
+60. Zika virus isolate ZIKV/Macaca mulatta/UGA/MR-766_SM150-V8/1947 polyprotein (GP1) gene, complete cds
+10,710 bp linear RNA 
+KU963573.1 GI:1009296153
+
+61. Zika virus isolate ZIKV/Homo sapiens/NGA/IbH-30656_SM21V1-V3/1968 polyprotein (GP1) gene, complete cds
+10,442 bp linear RNA 
+KU963574.1 GI:1009296155
+
+62. Zika virus isolate SZ-WIV01 polyprotein gene, complete cds
+10,709 bp linear RNA 
+KU963796.1 GI:1009327546
+
+63. Zika virus isolate Brazil/2016/INMI1 polyprotein gene, complete cds
+10,643 bp linear RNA 
+KU991811.1 GI:1012128960
+
+64. Zika virus isolate Haiti/1/2016, complete genome
+10,807 bp linear cRNA 
+KX051563.1 GI:1016884664
+
+65. Zika virus isolate Zika virus/GZ02/2016 polyprotein gene, complete cds
+10,272 bp linear RNA 
+KX056898.1 GI:1016884662
+
+66. Zika virus strain ZIKV/Homo sapiens/PRI/PRVABC59/2015, complete genome
+10,771 bp linear RNA 
+KX087101.2 GI:1027485270
+
+67. Zika virus strain ZIKV/Homo sapiens/COL/FLR/2015, complete genome
+10,661 bp linear RNA 
+KX087102.1 GI:1020267437
+
+68. Zika virus isolate Bahia04, partial genome
+10,323 bp linear RNA 
+KX101062.1 GI:1022831293
+
+69. Zika virus isolate Bahia01, partial genome
+10,632 bp linear RNA 
+KX101066.1 GI:1022831301
+
+70. Zika virus isolate Zhejiang04, complete genome
+10,805 bp linear RNA 
+KX117076.1 GI:1021395933
+
+71. Zika virus strain ZIKV/Homo sapiens/PAN/CDC-259359_V1-V3/2015, complete genome
+10,672 bp linear RNA 
+KX156774.1 GI:1024286099
+
+72. Zika virus strain ZIKV/Homo sapiens/PAN/CDC-259249_V1-V3/2015, complete genome
+10,630 bp linear RNA 
+KX156775.1 GI:1024286104
+
+73. Zika virus strain ZIKV/Homo sapiens/PAN/CDC-259364_V1-V2/2015, complete genome
+10,631 bp linear RNA 
+KX156776.1 GI:1024286109
+
+74. Zika virus isolate Zika virus/CN/SZ02/2016 polyprotein gene, complete cds
+10,272 bp linear RNA 
+KX185891.1 GI:1026288137
+
+75. Zika virus isolate ZIKV/H.sapiens/Brazil/PE243/2015, complete genome
+10,807 bp linear RNA 
+KX197192.1 GI:1026288139
+
+76. Zika virus strain ZIKV/Aedes africanus/SEN/DAK-AR-41524_A1C1-V2/1984, complete genome
+11,025 bp linear RNA 
+KX198134.1 GI:1026288141
+
+77. Zika virus strain ZIKV/Homo sapiens/PAN/BEI-259634_V4/2016, complete genome
+10,709 bp linear RNA 
+KX198135.1 GI:1026288143
+
+78. Zika virus isolate Zika virus/Homo sapiens/COL/UF-1/2016, complete genome
+10,808 bp linear cRNA 
+KX247646.1 GI:1028727781
+
+79. Zika virus isolate ZKC2/2016, complete genome
+10,807 bp linear RNA 
+KX253996.1 GI:1029032430
+
+80. Zika virus isolate 103451, complete genome
+10,806 bp linear RNA 
+KX262887.1 GI:1031621529
+
+81. Zika virus isolate Paraiba_01, complete genome
+10,807 bp linear RNA 
+KX280026.1 GI:1032590576
+
+82. Zika virus genomic RNA, complete genome, strain: MR766-NIID
+10,807 bp linear RNA 
+LC002520.1 GI:685052337
