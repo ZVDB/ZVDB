@@ -6,3 +6,8 @@ S.No.,Accession,Description,Type,Max Score,Total Score,Query Cover,E value,Ident
 4,KU720415.1,Strain MR 766 Polyprotein gene,RNA,19714,19714,99%,0.0,99%
 5,KU963573.1,Isolate ZIKV/Macaca mulatta/UGA/MR-766_SM150-V8/1947 Polyprotein (GP1) gene,RNA,19568,19568,98%,0.0,99%
 6,HQ234498.1,Isolate MR 766 Polyprotein gene,RNA,18809,18809,95%,0.0,99%
+7,KF383119.1,Strain ArD158084 Polyprotein gene,RNA,18554,18554,95%,0.0,99%
+8,KF383121.1,Strain ArD158095 Polyprotein gene,RNA,18017,18017,92%,0.0,99%
+9,KF383118.1,Strain ArD157995 Polyprotein gene,RNA,17865,17865,95%,0.0,98%
+10,KF268949.1,Isolate ARB15076 Polyprotein gene,RNA,17034,17034,99%,0.0,95%
+11,KF268948.1,Isolate ARB13565 Polyprotein gene,RNA,16971,16971,99%,0.0,95%
