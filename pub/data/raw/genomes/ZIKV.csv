@@ -1,3 +1,8 @@
 S.No.,Accession,Description,Type,Max Score,Total Score,Query Cover,E value,Identity
 1,AY632535.2,Strain MR 766,RNA,19933,19933,100%,0.0,100%
 2,KU955594.1,Isolate M.mulatta-tc/UGA/1947/MR-766,RNA,19839,19839,100%,0.0,99%
+2,KU955594.1,Isolate M.mulatta-tc/UGA/1947/MR-766,RNA,19839,19839,100%,0.0,99%
+3,LC002520.1,Strain MR766-NIID,RNA,19767,19767,100%,0.0,99%
+4,KU720415.1,Strain MR 766 Polyprotein gene,RNA,19714,19714,99%,0.0,99%
+5,KU963573.1,Isolate ZIKV/Macaca mulatta/UGA/MR-766_SM150-V8/1947 Polyprotein (GP1) gene,RNA,19568,19568,98%,0.0,99%
+6,HQ234498.1,Isolate MR 766 Polyprotein gene,RNA,18809,18809,95%,0.0,99%
