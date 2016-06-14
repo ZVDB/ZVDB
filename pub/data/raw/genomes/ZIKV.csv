@@ -10,3 +10,8 @@ S.No.,Accession,Description,Type,Max Score,Total Score,Query Cover,E value,Ident
 9,KF383118.1,Strain ArD157995 Polyprotein gene,RNA,17865,17865,95%,0.0,98%
 10,KF268949.1,Isolate ARB15076 Polyprotein gene,RNA,17034,17034,99%,0.0,95%
 11,KF268948.1,Isolate ARB13565 Polyprotein gene,RNA,16971,16971,99%,0.0,95%
+12,KF268950.1,Isolate ARB7701 Polyprotein gene,RNA,16903,16903,99%,0.0,95%
+13,KF383115.1,Strain ArB1362 Polyprotein gene,RNA,16185,16185,95%,0.0,95%
+14,KU955595.1,Isolate Zika virus/A.taylori-tc/SEN/1984/41671-DAK,RNA,16090,16090,99%,0.0,94%
+15,KU955592.1,Isolate Zika virus/A.taylori-tc/SEN/1984/41662-DAK,RNA,16090,16090,99%,0.0,94%
+16,KU955591.1,Isolate Zika virus/A.africanus-tc/SEN/1984/41525-DAK,RNA,16074,16074,99%,0.0,94%
