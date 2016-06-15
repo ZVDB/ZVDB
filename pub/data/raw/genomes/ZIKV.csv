@@ -20,3 +20,8 @@ S.No.,Accession,Description,Type,Max Score,Total Score,Query Cover,E value,Ident
 19,KF383117.1,Strain ArD128000 Polyprotein gene,RNA,15446,15446,95%,0.0,94%
 20,KU963574.1,Isolate ZIKV/Homo sapiens/NGA/IbH-30656_SM21V1-V3/1968 Polyprotein (GP1) gene,RNA,15357,15475,96%,0.0,93%
 21,KF383116.1,Strain ArD7117 Polyprotein gene,RNA,15319,15319,95%,0.0,94%
+22,HQ234500.1,Isolate IbH_30656 Polyprotein gene,RNA,15147,15147,94%,0.0,93%
+23,HQ234501.1,Isolate ArD_41519 Polyprotein gene,RNA,15115,15115,94%,0.0,93%
+24,KU955593.1,Isolate Zika virus/H.sapiens-tc/KHM/2010/FSS13025,RNA,13339,13339,99%,0.0,89%
+25,KU681082.3,Isolate Zika virus/H.sapiens-tc/PHL/2012/CPC-0740,RNA,13333,13333,99%,0.0,89%
+26,KX280026.1,Isolate Paraiba_01,RNA,13311,13311,99%,0.0,89%
