@@ -15,3 +15,8 @@ S.No.,Accession,Description,Type,Max Score,Total Score,Query Cover,E value,Ident
 14,KU955595.1,Isolate Zika virus/A.taylori-tc/SEN/1984/41671-DAK,RNA,16090,16090,99%,0.0,94%
 15,KU955592.1,Isolate Zika virus/A.taylori-tc/SEN/1984/41662-DAK,RNA,16090,16090,99%,0.0,94%
 16,KU955591.1,Isolate Zika virus/A.africanus-tc/SEN/1984/41525-DAK,RNA,16074,16074,99%,0.0,94%
+17,KX198134.1,Strain ZIKV/Aedes africanus/SEN/DAK-AR-41524_A1C1-V2/1984,RNA,15837,16402,98%,0.0,94%
+18,DQ859059.1,Strain MR 766 Polyprotein gene,RNA,15540,15540,95%,0.0,94%
+19,KF383117.1,Strain ArD128000 Polyprotein gene,RNA,15446,15446,95%,0.0,94%
+20,KU963574.1,Isolate ZIKV/Homo sapiens/NGA/IbH-30656_SM21V1-V3/1968 Polyprotein (GP1) gene,RNA,15357,15475,96%,0.0,93%
+21,KF383116.1,Strain ArD7117 Polyprotein gene,RNA,15319,15319,95%,0.0,94%
